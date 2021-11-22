@@ -103,9 +103,7 @@ public class DBTest {
 			System.out.println("Ordered Successfull");
 		}
 		
-		//driver.close();
-
-		
+		driver.close();	
 
 	}
 
